@@ -1,0 +1,20 @@
+{
+  "name": "esports",
+  "version": "1.0.0",
+  "description": "Construir as bases para iniciar o nosso projeto: o Find your DUO, fazendo o setup do ambiente de desenvolvimento com Node.js, ReactJS e React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodretech/asodretech_esports.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodretech/asodretech_esports/issues"
+  },
+  "homepage": "https://github.com/sodretech/asodretech_esports#readme"
+}
